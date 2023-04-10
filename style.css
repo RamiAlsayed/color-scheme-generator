@@ -59,8 +59,8 @@ form {
   align-items: center;
 
   width: 100%;
-  height: 40vh;
-  background-color: aqua;
+  height: 30vh;
+  background-color: #2a3646;
 }
 
 .imgo {
@@ -68,6 +68,7 @@ form {
   transform: rotate(-90deg);
 
   margin: 0 auto;
+  margin-top: -3.3rem;
   width: 240px;
 }
 .hex-code {
@@ -75,7 +76,7 @@ form {
   justify-content: center;
   align-items: center;
 
-  height: 2rem;
+  /* height: 2rem; */
 }
 
 .hex-value {

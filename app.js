@@ -30,7 +30,7 @@ function getColor() {
 
         html = `
            
-             <div class="img-box"><img class="imgo" src="${data.image.named}" alt="color"></div>
+            <img class="imgo" src="${data.image.named}" alt="color">
              
       
                
