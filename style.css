@@ -42,6 +42,7 @@ form {
   border-radius: 0.31rem;
   width: 50%;
   cursor: pointer;
+  text-align: center;
 }
 
 .btn {
